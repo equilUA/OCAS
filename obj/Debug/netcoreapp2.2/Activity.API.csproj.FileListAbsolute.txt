@@ -1,0 +1,5 @@
+C:\Projects\test\API\activity-api-master\activity-api-master\src\Activity.API\obj\Debug\netcoreapp2.2\Activity.API.csprojAssemblyReference.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\Activity.API\obj\Debug\netcoreapp2.2\Activity.API.RazorAssemblyInfo.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\Activity.API\obj\Debug\netcoreapp2.2\Activity.API.RazorAssemblyInfo.cs
+C:\Projects\test\API\activity-api-master\activity-api-master\src\Activity.API\obj\Debug\netcoreapp2.2\Activity.API.AssemblyInfoInputs.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\Activity.API\obj\Debug\netcoreapp2.2\Activity.API.AssemblyInfo.cs

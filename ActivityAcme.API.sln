@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivityAcme.API", "ActivityAcme.API.csproj", "{DACC7A21-50CB-4AA5-836A-D875EA7F2F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACC7A21-50CB-4AA5-836A-D875EA7F2F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACC7A21-50CB-4AA5-836A-D875EA7F2F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACC7A21-50CB-4AA5-836A-D875EA7F2F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACC7A21-50CB-4AA5-836A-D875EA7F2F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE09ED6-9294-46DA-B997-9C0C23D2932A}
+	EndGlobalSection
+EndGlobal

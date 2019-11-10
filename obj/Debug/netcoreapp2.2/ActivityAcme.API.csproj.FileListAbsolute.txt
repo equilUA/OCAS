@@ -1,0 +1,17 @@
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.deps.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.runtimeconfig.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.runtimeconfig.dev.json
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.dll
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.pdb
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\bin\Debug\netcoreapp2.2\ActivityAcme.API.xml
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.RazorAssemblyInfo.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.RazorAssemblyInfo.cs
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.AssemblyInfoInputs.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.AssemblyInfo.cs
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.RazorTargetAssemblyInfo.cache
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.dll
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.xml
+C:\Projects\test\API\activity-api-master\activity-api-master\src\ActivityAcme.API\obj\Debug\netcoreapp2.2\ActivityAcme.API.pdb

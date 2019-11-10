@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ActivityAcme.API</name>
+    </assembly>
+    <members>
+        <member name="M:ActivityAcme.API.Controllers.ActivitysController.ListAsync">
+            <summary>
+            Lists all Activitys.
+            </summary>
+            <returns>List os Activitys.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.ActivitysController.PostAsync(ActivityAcme.API.Resources.SaveActivityResource)">
+            <summary>
+            Saves a new activity.
+            </summary>
+            <param name="resource">Activity data.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.ActivitysController.PutAsync(System.Int32,ActivityAcme.API.Resources.SaveActivityResource)">
+            <summary>
+            Updates an existing activity according to an identifier.
+            </summary>
+            <param name="id">Activity identifier.</param>
+            <param name="resource">Updated Activity data.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.ActivitysController.DeleteAsync(System.Int32)">
+            <summary>
+            Deletes a given activity according to an identifier.
+            </summary>
+            <param name="id">Activity identifier.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.EmployeesController.ListAsync(ActivityAcme.API.Resources.EmployeesQueryResource)">
+            <summary>
+            Lists all existing employees.
+            </summary>
+            <returns>List of employees.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.EmployeesController.PostAsync(ActivityAcme.API.Resources.SaveEmployeeResource)">
+            <summary>
+            Saves a new employee.
+            </summary>
+            <param name="resource">Employee data.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.EmployeesController.PutAsync(System.Int32,ActivityAcme.API.Resources.SaveEmployeeResource)">
+            <summary>
+            Updates an existing employee according to an identifier.
+            </summary>
+            <param name="id">Employee identifier.</param>
+            <param name="resource">Employee data.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Controllers.EmployeesController.DeleteAsync(System.Int32)">
+            <summary>
+            Deletes a given employee according to an identifier.
+            </summary>
+            <param name="id">Employee identifier.</param>
+            <returns>Response for the request.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Domain.Services.Communication.ActivityResponse.#ctor(ActivityAcme.API.Domain.Models.Activity)">
+            <summary>
+            Creates a success response.
+            </summary>
+            <param name="activity">Saved activity.</param>
+            <returns>Response.</returns>
+        </member>
+        <member name="M:ActivityAcme.API.Domain.Services.Communication.ActivityResponse.#ctor(System.String)">
+            <summary>
+            Creates am error response.
+            </summary>
+            <param name="message">Error message.</param>
+            <returns>Response.</returns>
+        </member>
+    </members>
+</doc>
