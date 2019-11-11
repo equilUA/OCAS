@@ -73,7 +73,7 @@ namespace ActivityAcme.API
             services.AddScoped<IActivityService, ActivityService>();
             services.AddScoped<IEmployeeService, EmployeeService>();
 
-            services.AddAutoMapper(typeof(Startup));
+            services.AddAutoMapper();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
